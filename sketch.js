@@ -20,7 +20,7 @@ function preload() {
   crickets = loadSound('crickets.mp3');
   songs = [
     loadSound('song1.mp3'),
-    loadSound('song2.m4a'),
+    loadSound('song2.mp3'),
     loadSound('song3.mp3'),
     loadSound('song4.mp3')
   ];
